@@ -5,7 +5,7 @@ Here are steps to set up this projet:
 Dowload or clone this project :
 
 Import  as maven project.
-If lombok is not there in your project before importing, please run the below jar at lombok.jar location.
+If lombok is not there in your eclipse before importing, please run the below jar at lombok.jar location after importing the project.
 
 java -jar lombok-1.18.10.jar .
 
